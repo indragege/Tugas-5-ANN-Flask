@@ -1,0 +1,43 @@
+Model Neural Network untuk KABUPATEN SUBANG
+==================================================
+
+Arsitektur Model:
+- Input Layer: 1 neuron (tahun)
+- Hidden Layer 1: 16 neuron (ReLU) + Dropout 0.2
+- Hidden Layer 2: 32 neuron (ReLU) + Dropout 0.2
+- Hidden Layer 3: 16 neuron (ReLU)
+- Output Layer: 1 neuron (Linear)
+
+Parameter Training:
+- Optimizer: Adam
+- Loss Function: Mean Squared Error (MSE)
+- Metrics: MAE, MAPE
+- Early Stopping: Ya (patience=20)
+
+Ringkasan Layer:
+Model: "sequential_12"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ input_layer (Dense)         (None, 16)                32        
+                                                                 
+ dropout_24 (Dropout)        (None, 16)                0         
+                                                                 
+ hidden_layer_1 (Dense)      (None, 32)                544       
+                                                                 
+ dropout_25 (Dropout)        (None, 32)                0         
+                                                                 
+ hidden_layer_2 (Dense)      (None, 16)                528       
+                                                                 
+ output_layer (Dense)        (None, 1)                 17        
+                                                                 
+=================================================================
+Total params: 1,121
+Trainable params: 1,121
+Non-trainable params: 0
+_________________________________________________________________
+
+Hasil Evaluasi:
+- MSE: 0.0000
+- MAE: 0.0030
+- MAPE: 2.3876%

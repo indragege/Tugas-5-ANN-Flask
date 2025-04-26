@@ -1,0 +1,380 @@
+{
+    "3201": {
+        "nama": "KABUPATEN BOGOR",
+        "stats": {
+            "min_kasus": 3152,
+            "max_kasus": 11779,
+            "mean_kasus": 6071,
+            "total_kasus": 30355
+        },
+        "metrics": {
+            "mse": 1.9473195607133675e-06,
+            "mae": 0.0013954639434814453,
+            "mape": 2.2129905223846436
+        }
+    },
+    "3202": {
+        "nama": "KABUPATEN SUKABUMI",
+        "stats": {
+            "min_kasus": 3064,
+            "max_kasus": 5035,
+            "mean_kasus": 4337,
+            "total_kasus": 21688
+        },
+        "metrics": {
+            "mse": 0.17891189455986023,
+            "mae": 0.42297977209091187,
+            "mape": 42.297977447509766
+        }
+    },
+    "3203": {
+        "nama": "KABUPATEN CIANJUR",
+        "stats": {
+            "min_kasus": 4261,
+            "max_kasus": 7934,
+            "mean_kasus": 5544,
+            "total_kasus": 27723
+        },
+        "metrics": {
+            "mse": 6.54886798656662e-06,
+            "mae": 0.0025590755976736546,
+            "mape": 2559075.5
+        }
+    },
+    "3204": {
+        "nama": "KABUPATEN BANDUNG",
+        "stats": {
+            "min_kasus": 4173,
+            "max_kasus": 8378,
+            "mean_kasus": 6661,
+            "total_kasus": 33308
+        },
+        "metrics": {
+            "mse": 2.8595268304343335e-06,
+            "mae": 0.0016910135746002197,
+            "mape": 0.41054919362068176
+        }
+    },
+    "3205": {
+        "nama": "KABUPATEN GARUT",
+        "stats": {
+            "min_kasus": 2634,
+            "max_kasus": 8374,
+            "mean_kasus": 5359,
+            "total_kasus": 26798
+        },
+        "metrics": {
+            "mse": 4.438797532202443e-06,
+            "mae": 0.0021068453788757324,
+            "mape": 0.4100811183452606
+        }
+    },
+    "3206": {
+        "nama": "KABUPATEN TASIKMALAYA",
+        "stats": {
+            "min_kasus": 1814,
+            "max_kasus": 3902,
+            "mean_kasus": 2729,
+            "total_kasus": 13645
+        },
+        "metrics": {
+            "mse": 0.0011325947707518935,
+            "mae": 0.033654045313596725,
+            "mape": 33654044.0
+        }
+    },
+    "3207": {
+        "nama": "KABUPATEN CIAMIS",
+        "stats": {
+            "min_kasus": 3114,
+            "max_kasus": 5848,
+            "mean_kasus": 4746,
+            "total_kasus": 23732
+        },
+        "metrics": {
+            "mse": 0.0009101610630750656,
+            "mae": 0.03016887605190277,
+            "mape": 30168876.0
+        }
+    },
+    "3208": {
+        "nama": "KABUPATEN KUNINGAN",
+        "stats": {
+            "min_kasus": 1569,
+            "max_kasus": 2277,
+            "mean_kasus": 1858,
+            "total_kasus": 9291
+        },
+        "metrics": {
+            "mse": 2.8782365916413255e-05,
+            "mae": 0.005364920012652874,
+            "mape": 5364920.0
+        }
+    },
+    "3209": {
+        "nama": "KABUPATEN CIREBON",
+        "stats": {
+            "min_kasus": 5584,
+            "max_kasus": 10818,
+            "mean_kasus": 7329,
+            "total_kasus": 36647
+        },
+        "metrics": {
+            "mse": 5.68665150524339e-08,
+            "mae": 0.0002384670078754425,
+            "mape": 0.6603895425796509
+        }
+    },
+    "3210": {
+        "nama": "KABUPATEN MAJALENGKA",
+        "stats": {
+            "min_kasus": 2354,
+            "max_kasus": 4677,
+            "mean_kasus": 3627,
+            "total_kasus": 18137
+        },
+        "metrics": {
+            "mse": 1.9622224499471486e-05,
+            "mae": 0.0044296979904174805,
+            "mape": 3.2563884258270264
+        }
+    },
+    "3211": {
+        "nama": "KABUPATEN SUMEDANG",
+        "stats": {
+            "min_kasus": 2507,
+            "max_kasus": 7047,
+            "mean_kasus": 4690,
+            "total_kasus": 23452
+        },
+        "metrics": {
+            "mse": 2.3063245180310332e-07,
+            "mae": 0.0004802420735359192,
+            "mape": 0.45804598927497864
+        }
+    },
+    "3212": {
+        "nama": "KABUPATEN INDRAMAYU",
+        "stats": {
+            "min_kasus": 4381,
+            "max_kasus": 6779,
+            "mean_kasus": 5135,
+            "total_kasus": 25675
+        },
+        "metrics": {
+            "mse": 1.7879057168102008e-06,
+            "mae": 0.0013371258974075317,
+            "mape": 0.8328383564949036
+        }
+    },
+    "3213": {
+        "nama": "KABUPATEN SUBANG",
+        "stats": {
+            "min_kasus": 2978,
+            "max_kasus": 4906,
+            "mean_kasus": 3827,
+            "total_kasus": 19139
+        },
+        "metrics": {
+            "mse": 8.833222636894789e-06,
+            "mae": 0.0029720738530158997,
+            "mape": 2.387565851211548
+        }
+    },
+    "3214": {
+        "nama": "KABUPATEN PURWAKARTA",
+        "stats": {
+            "min_kasus": 3576,
+            "max_kasus": 4268,
+            "mean_kasus": 3802,
+            "total_kasus": 19011
+        },
+        "metrics": {
+            "mse": 0.002065725391730666,
+            "mae": 0.045450251549482346,
+            "mape": 45450248.0
+        }
+    },
+    "3215": {
+        "nama": "KABUPATEN KARAWANG",
+        "stats": {
+            "min_kasus": 3599,
+            "max_kasus": 5724,
+            "mean_kasus": 4683,
+            "total_kasus": 23417
+        },
+        "metrics": {
+            "mse": 1.6015555956983007e-06,
+            "mae": 0.0012655258178710938,
+            "mape": 0.1887187659740448
+        }
+    },
+    "3216": {
+        "nama": "KABUPATEN BEKASI",
+        "stats": {
+            "min_kasus": 1445,
+            "max_kasus": 2176,
+            "mean_kasus": 1805,
+            "total_kasus": 9025
+        },
+        "metrics": {
+            "mse": 9.237028848474438e-07,
+            "mae": 0.0009610946290194988,
+            "mape": 961094.625
+        }
+    },
+    "3217": {
+        "nama": "KABUPATEN BANDUNG BARAT",
+        "stats": {
+            "min_kasus": 1863,
+            "max_kasus": 2524,
+            "mean_kasus": 2322,
+            "total_kasus": 11610
+        },
+        "metrics": {
+            "mse": 0.0025177709758281708,
+            "mae": 0.05017739534378052,
+            "mape": 5.748225212097168
+        }
+    },
+    "3218": {
+        "nama": "KABUPATEN PANGANDARAN",
+        "stats": {
+            "min_kasus": 160,
+            "max_kasus": 786,
+            "mean_kasus": 389,
+            "total_kasus": 1949
+        },
+        "metrics": {
+            "mse": 5.2451228839345276e-05,
+            "mae": 0.007242321968078613,
+            "mape": 6.766706466674805
+        }
+    },
+    "3271": {
+        "nama": "KOTA BOGOR",
+        "stats": {
+            "min_kasus": 973,
+            "max_kasus": 3648,
+            "mean_kasus": 2335,
+            "total_kasus": 11676
+        },
+        "metrics": {
+            "mse": 3.3719973089318955e-06,
+            "mae": 0.0018362998962402344,
+            "mape": 0.5659103989601135
+        }
+    },
+    "3272": {
+        "nama": "KOTA SUKABUMI",
+        "stats": {
+            "min_kasus": 1071,
+            "max_kasus": 2718,
+            "mean_kasus": 1540,
+            "total_kasus": 7701
+        },
+        "metrics": {
+            "mse": 0.0010352026438340545,
+            "mae": 0.03217456489801407,
+            "mape": 32174566.0
+        }
+    },
+    "3273": {
+        "nama": "KOTA BANDUNG",
+        "stats": {
+            "min_kasus": 2288,
+            "max_kasus": 8585,
+            "mean_kasus": 5023,
+            "total_kasus": 25115
+        },
+        "metrics": {
+            "mse": 1.2186140338599216e-05,
+            "mae": 0.0034908652305603027,
+            "mape": 2.2294094562530518
+        }
+    },
+    "3274": {
+        "nama": "KOTA CIREBON",
+        "stats": {
+            "min_kasus": 1250,
+            "max_kasus": 3226,
+            "mean_kasus": 2178,
+            "total_kasus": 10891
+        },
+        "metrics": {
+            "mse": 3.486746936687268e-05,
+            "mae": 0.005904868245124817,
+            "mape": 3.825579881668091
+        }
+    },
+    "3275": {
+        "nama": "KOTA BEKASI",
+        "stats": {
+            "min_kasus": 1130,
+            "max_kasus": 2857,
+            "mean_kasus": 1853,
+            "total_kasus": 9265
+        },
+        "metrics": {
+            "mse": 1.3357293028093409e-05,
+            "mae": 0.003654763102531433,
+            "mape": 1.5245835781097412
+        }
+    },
+    "3276": {
+        "nama": "KOTA DEPOK",
+        "stats": {
+            "min_kasus": 826,
+            "max_kasus": 3936,
+            "mean_kasus": 1899,
+            "total_kasus": 9496
+        },
+        "metrics": {
+            "mse": 0.0029223607853055,
+            "mae": 0.05405886471271515,
+            "mape": 1401.025634765625
+        }
+    },
+    "3277": {
+        "nama": "KOTA CIMAHI",
+        "stats": {
+            "min_kasus": 778,
+            "max_kasus": 4994,
+            "mean_kasus": 1910,
+            "total_kasus": 9552
+        },
+        "metrics": {
+            "mse": 6.483456900241436e-07,
+            "mae": 0.000805199146270752,
+            "mape": 0.6161015629768372
+        }
+    },
+    "3278": {
+        "nama": "KOTA TASIKMALAYA",
+        "stats": {
+            "min_kasus": 1024,
+            "max_kasus": 1737,
+            "mean_kasus": 1397,
+            "total_kasus": 6989
+        },
+        "metrics": {
+            "mse": 9.246045010513626e-06,
+            "mae": 0.0030407309532165527,
+            "mape": 1.7206676006317139
+        }
+    },
+    "3279": {
+        "nama": "KOTA BANJAR",
+        "stats": {
+            "min_kasus": 249,
+            "max_kasus": 573,
+            "mean_kasus": 451,
+            "total_kasus": 2255
+        },
+        "metrics": {
+            "mse": 0.04070959612727165,
+            "mae": 0.20176619291305542,
+            "mape": 25.838834762573242
+        }
+    }
+}

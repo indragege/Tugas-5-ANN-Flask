@@ -152,5 +152,4 @@ if __name__ == '__main__':
 
     # Konfigurasi port untuk Railway
     port = int(os.environ.get('PORT', 5000))
-    print(f"\nServer berjalan di port {port}")
-    app.run(host='0.0.0.0', port=port, debug=False) 
+    app.run(host='0.0.0.0', port=port)

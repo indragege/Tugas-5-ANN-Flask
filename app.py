@@ -149,5 +149,8 @@ if __name__ == '__main__':
     print("Dataset ini berisi jumlah kasus penyakit pneumonia berdasarkan kabupaten/kota")
     print("di Provinsi Jawa Barat dari tahun 2019 s.d. 2023")
     print("Dataset dihasilkan oleh Dinas Kesehatan (periode 1 tahun sekali)")
-    print("\nServer berjalan di http://localhost:5000")
-    app.run(debug=True) 
+
+    # Konfigurasi port untuk Railway
+    port = int(os.environ.get('PORT', 5000))
+    print(f"\nServer berjalan di port {port}")
+    app.run(host='0.0.0.0', port=port, debug=False) 
